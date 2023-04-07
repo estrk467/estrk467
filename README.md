@@ -3,18 +3,39 @@
 </div>
 
 ---
-#### 👩‍💻 About Me: 
-- I am a Computer Science major @ CSU East Bay
-- I am a proud mother of two cats 
-
+#### 👩🏻‍💻 About Me: 
+I am a first gerneration college student majoring in Computer Science at California State University, East Bay. I am passionate about problem solving and creating unique solutions to problems.
  
-#### 🔭 I’m currently working on ...
+#### 👾 Favorite Languages
+- C/C++
+- Java
+
+#### 🖥 Technologies
+- Python
+- Java
+- C/C++
+- HTML/CSS
+- JavaScript
+- Linux
+- PyTorch
+- GitHub
+- Git
+- Bash
+- Linus
+- Eclipse
+- Android Studio
+
 ####  📫 How to reach me: 
 - Email: kvillaestrella@horizon.csueastbay.edu
-- 
+
 #### 😄 Pronouns: 
 - She/Her
-####  ⚡ Fun fact: ...
+
+####  ⚡ Fun fact: 
+- I'm a mother of two cats, Cece & Remi 
+- Love to play pool
+- Currently trying to get better at darts
+
 
 <!--
 **estrk467/estrk467** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
