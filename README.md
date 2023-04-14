@@ -4,7 +4,7 @@
 
 ---
 #### 👩🏻‍💻 About Me: 
-I am a first gerneration college student majoring in Computer Science at California State University, East Bay. I am passionate about problem solving and creating unique solutions to problems.
+I am a first gerneration college student majoring in Computer Science at California State University, East Bay. I am passionate about problem solving and thinking about unique solutions to problems.
  
 #### 👾 Favorite Languages
 - C/C++
