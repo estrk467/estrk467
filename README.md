@@ -31,7 +31,7 @@ I am a first gerneration college student majoring in Computer Science at Califor
 #### 😄 Pronouns: 
 - She/Her
 
-####  ⚡ Fun fact: 
+####  ⚡ Fun facts: 
 - I'm a mother of two cats, Cece & Remi 
 - Love to play pool
 - Currently trying to get better at darts
