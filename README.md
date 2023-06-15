@@ -21,7 +21,7 @@ I am a first gerneration college student majoring in Computer Science at Califor
 - GitHub
 - Git
 - Bash
-- Linus
+- Linux
 - Eclipse
 - Android Studio
 
