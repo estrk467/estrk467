@@ -4,10 +4,10 @@
 
 ---
 #### 👩🏻‍💻 About Me: 
-I am a first gerneration college student majoring in Computer Science at California State University, East Bay. I am passionate about problem solving and finding solutions to problems.
+I am a first gerneration college student majoring in Computer Science at California State University, East Bay. I am passionate about problem solving and coming up with unique solutions to problems.
  
 #### 👾 Favorite Languages
-- C/C++
+- Python
 - Java
 
 #### 🖥 Technologies
@@ -26,13 +26,13 @@ I am a first gerneration college student majoring in Computer Science at Califor
 - Android Studio
 
 ####  📫 How to reach me: 
-- Email: kvillaestrella@horizon.csueastbay.edu
+- Email: villae.karla@gmail.com
 
 #### 😄 Pronouns: 
 - She/Her
 
 ####  ⚡ Fun facts: 
-- I'm a mother of two cats, Cece & Remi 
+- Cat Mom of Cece & Remi 
 - Love to play pool
 - Currently trying to get better at darts
 
