@@ -19,7 +19,6 @@ Linux | MacOS | Windows
 --- | --- | ---
 Eclipse | Xcode | Android Studio 
 Git | Bash
---- | --- | ---
 
 
 ####  📫 How to reach me: 
