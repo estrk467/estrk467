@@ -4,37 +4,22 @@
 
 ---
 #### 👩🏻‍💻 About Me: 
-I am a first gerneration college student majoring in Computer Science at California State University, East Bay. I am passionate about problem solving and coming up with unique solutions to problems.
- 
-#### 👾 Favorite Languages
-- Python
-- Java
+Hi! I'm Karla and I like to solve problems. 
 
-#### 🖥 Technologies
-- Python
-- Java
-- C/C++
-- HTML/CSS
-- JavaScript
-- Linux
-- PyTorch
-- GitHub
-- Git
-- Bash
-- Linux
-- Eclipse
-- Android Studio
+#### 👾 Tech Stack
+°Python     °C/C++       °JavaScript
+°Java       °HTML/CSS    °Swift
+
+#### 🖥 OS and Tools
+°Linux     °MacOS   °Windows
+°Eclipse   °Xcode   °Android Studio 
+°Git       °Bash
 
 ####  📫 How to reach me: 
 - Email: villae.karla@gmail.com
+- LinkedIn: https://www.linkedin.com/in/karla-villa-estrella-b33b6320b/
 
-#### 😄 Pronouns: 
-- She/Her
 
-####  ⚡ Fun facts: 
-- Cat Mom of Cece & Remi 
-- Love to play pool
-- Currently trying to get better at darts
 
 
 <!--
