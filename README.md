@@ -7,8 +7,8 @@
 Hi! I'm Karla and I like to solve problems. 
 
 #### 👾 Tech Stack
-°Python     °C/C++       °JavaScript
-°Java       °HTML/CSS    °Swift
+-Python     -C/C++       -JavaScript
+-Java       -HTML/CSS    -Swift
 
 #### 🖥 OS and Tools
 °Linux     °MacOS   °Windows
