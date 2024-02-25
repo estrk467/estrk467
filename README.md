@@ -16,6 +16,7 @@ Java | HTML/CSS | Swift
 #### 🖥 OS and Tools
 
 Linux | MacOS | Windows
+--- | --- | ---
 Eclipse | Xcode | Android Studio 
 Git | Bash
 
