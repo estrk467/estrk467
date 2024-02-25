@@ -14,9 +14,10 @@ Java | HTML/CSS | Swift
 
 
 #### 🖥 OS and Tools
-°Linux     °MacOS   °Windows
-°Eclipse   °Xcode   °Android Studio 
-°Git       °Bash
+
+Linux | MacOS | Windows
+Eclipse | Xcode | Android Studio 
+Git | Bash
 
 ####  📫 How to reach me: 
 - Email: villae.karla@gmail.com
