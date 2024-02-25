@@ -17,8 +17,8 @@ Java | HTML/CSS | Swift
 
 Linux | MacOS | Windows
 --- | --- | ---
-Eclipse | Xcode | Android Studio 
-Git | Bash
+Eclipse | Xcode | Android Studio | Bash | Git
+
 
 
 ####  📫 How to reach me: 
